@@ -1,0 +1,1 @@
+<h1 class="text-center">No images found for this listing!</h1>
